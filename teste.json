@@ -1,0 +1,20 @@
+[  
+  {
+    "key" : "AC",
+    "name" : "Acre",
+    "latitude" : -9.97499,
+    "longitude" : -67.8243
+  },
+  {
+    "key" : "BA",
+    "name" : "Bahia",
+    "latitude" : -12.9718,
+    "longitude" : -38.5011
+  },
+  {
+    "key" : "SP",
+    "name" : "São Paulo",
+    "latitude" : -23.5329,
+    "longitude" : -46.6395
+  }  
+]
