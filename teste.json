@@ -11,6 +11,12 @@
     "longitude": -38.5011,
     "name": "Bahia"
   },
+    {
+    "key" : "EP",
+    "name" : "Pará",
+    "latitude" : -1.4554,
+    "longitude" : -48.4898
+  },
   {
     "key": "SP",    
     "latitude": -23.5329,
